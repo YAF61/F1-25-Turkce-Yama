@@ -1,0 +1,7 @@
+# Büyük ikili dosyalar Releases kısmından dağıtılacaktır
+*.dat
+*.dat.ORIJINAL
+*.zip
+*.bak
+__pycache__/
+*.pyc

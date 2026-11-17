@@ -1,0 +1,25 @@
+========================================================================
+            EA SPORTS™ F1 25 — %100 TÜRKÇE YAMA (V13 - GÜNCEL)
+                  Uyumlu Oyun Build: 1.0.145.2472
+========================================================================
+
+Bu yama, F1 25'in güncel EA App / Epic Games / Steam sürümü (Build 1.0.145) için
+hazırlanmış, harici program gerektirmeyen YEREL (native) bir yamadır.
+
+ÖZELLİKLER:
+- Swofty vb. üçüncü taraf başlatıcılara KESİNLİKLE ihtiyaç duymaz.
+- EA Anti-Cheat veya dosya bütünlüğü hatalarına yol açmaz.
+- 56.136 satırlık Formula 1 terminolojisine uygun tam Türkçe çeviri içerir.
+
+KURULUM:
+1. Oyunu ve EA App / Epic Games başlatıcılarını kapatın.
+2. Klasördeki "1_TURKCE_YAMAYI_KUR.bat" dosyasına çift tıklayın.
+   (Yönetici izni ekranı gelirse "Evet" deyin).
+3. "Tebrikler! Türkçe Yama Başarıyla Kuruldu!" mesajını görünce işlem tamamdır.
+4. Oyunu doğrudan Epic Games veya EA App üzerinden normal şekilde başlatın!
+   (Oyun dili "English" seçili olmalıdır; yama İngilizce kaynağın üzerine yazılmıştır).
+
+ORİJİNAL HALİNE GERİ DÖNME:
+İstediğiniz zaman "2_ORIJINALE_GERI_DON.bat" dosyasına çift tıklayarak tek tıkla
+orijinal temiz dosyayı geri yükleyebilirsiniz.
+========================================================================
